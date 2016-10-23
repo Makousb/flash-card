@@ -1,10 +1,40 @@
 #Javascript-showing{
   display: none;
 }
-.clickable{
+.click-1{
   cursor: pointer;
   color: green;
 }
-.clickable:hover{
+.click-1:hover{
   text-decoration: underline;
+}
+#operator-showing{
+  display: none;
+}
+.click-2{
+  cursor: pointer;
+  color: green;
+}
+.click-2{
+  text-decoration: underline;
+}
+#method-showing{
+  display: none;
+}
+.click-3{
+  cursor: pointer;
+  color: green;
+}
+.click-3{
+  text-decoration: none;
+}
+.sect-1{
+  width: 50%;
+  height: 50%;
+  background-color: #808080
+}
+.sect-2{
+  width: 50%;
+  height: 50%;
+  background-color: #F5F5DC
 }
